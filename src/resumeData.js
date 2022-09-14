@@ -71,7 +71,7 @@ let resumeData = {
       name: "Playing Pogo",
       description: "Web Game",
       imgurl: "images/portfolio/pogo-game.jpg",
-      // "projectlink":"https://mradul-dixit.vercel.app/"
+       "projectlink":"https://mradul-dixit.vercel.app/"
     },
     {
       name: "Chrome Extension",
